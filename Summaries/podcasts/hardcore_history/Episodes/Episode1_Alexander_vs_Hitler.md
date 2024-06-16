@@ -33,4 +33,4 @@ A brief comparison of how history judges individuals who had an impact (positive
 
 ---
 
-[Back to Episode List](../index.md)
+[Back to Episode List](../Index.md)
